@@ -1,0 +1,6 @@
+{
+  "name": "MangaID",
+  "description": "Platform baca manga, manhwa, dan manhua bahasa Indonesia dengan tampilan bersih dan nyaman.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

@@ -1,0 +1,14 @@
+{
+  "user": {
+    "id": "user_default",
+    "username": "User",
+    "email": "reader@mangaid.app",
+    "avatarSeed": "manga-reader-avatar",
+    "avatarUrl": "",
+    "level": 0,
+    "readingSeconds": 0,
+    "joinedDate": "2026-01-01T00:00:00.000Z"
+  },
+  "history": [],
+  "bookmarks": []
+}
